@@ -5,3 +5,5 @@
 - James
 - Rosalind
 ====
+this is a merge conflict example====
+=
